@@ -1,4 +1,4 @@
-https://i.ibb.co/9bYLwxF/IMG-201908u-300x300.jpg)
+(https://i.ibb.co/9bYLwxF/IMG-201908u-300x300.jpg)
 ### Hi there 👋, my name is Mostofa Asik
 #### I am a Web Developer
 ![I am a Web Developer](
