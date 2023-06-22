@@ -1,7 +1,6 @@
-(https://i.ibb.co/9bYLwxF/IMG-201908u-300x300.jpg)
 ### Hi there 👋, my name is Mostofa Asik
 #### I am a Web Developer
-![I am a Web Developer](
+![I am a Web Developer](https://i.ibb.co/9bYLwxF/IMG-201908u-300x300.jpg)
 
 As a junior web developer,my objective is to contribute my skills and knowledge in creating dynamic and user-friendly websites.I aim to continuously learn and grow,collaborating with my skills.
 
