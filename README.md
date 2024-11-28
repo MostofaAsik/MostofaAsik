@@ -2,7 +2,7 @@
 
 #### I am a Web Developer
 
-![I am a Web Developer](https://i.ibb.co.com/z2yddx0/1731939057014.jpg)
+![I am a Web Developer](https://i.ibb.co.com/4sK2zQW/myImage.jpg)
 
 As a junior web developer,my objective is to contribute my skills and knowledge in creating dynamic and user-friendly websites.I aim to continuously learn and grow,collaborating with my skills.
 
